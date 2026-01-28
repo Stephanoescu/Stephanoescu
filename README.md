@@ -54,13 +54,12 @@ const stephano = {
     especialidad: "Frontend Architecture",
     código: ["JavaScript", "TypeScript", "Python", "C++"],
     herramientas: ["React", "Angular", "Vue", "Node.js"],
-    arquitectura: ["SPA", "PWA", "SSR", "Microservicios"],
+    arquitectura: ["DDD", "Clean Architecture", "Microservicios"],
     desafioActual: "Construir apps escalables y performantes",
     curiosidades: {
         café: "☕ Adicto al café de especialidad",
-        música: "🎵 Codifico con synthwave",
+        música: "🎵 Codifico con buena musica",
         gaming: "🎮 Gamer en tiempos libres",
-        optimización: "⚡ Obsesionado con los 60 FPS"
     }
 };
 ```
@@ -69,9 +68,8 @@ const stephano = {
 
 - 🔭 Desarrollando **aplicaciones web de alto rendimiento**
 - 🌱 Explorando **Web3** y **IA Generativa**
-- 👯 Buscando colaborar en **proyectos open source**
-- 💬 Pregúntame sobre **React, TypeScript, Performance**
-- ⚡ Fun fact: **Optimizo hasta el último byte**
+- ⚡ Buscando colaborar en **proyectos open source**
+
 
 </td>
 <td width="50%" valign="top" align="center">
