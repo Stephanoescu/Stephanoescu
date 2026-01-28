@@ -96,11 +96,7 @@ const stephano = {
 
 <div align="center">
 
-## �『 FUN ZONE 』🎬
-
-<img src="https://media.giphy.com/media/3o6ZtpRoYe9wbyfcBi/giphy.gif" width="250" alt="Coding Monkey" />
-
-**『 Code Monkey very functional, code monkey get the job done! 』**
+<img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="180" alt="Monkey" />
 
 </div>
 
