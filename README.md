@@ -96,12 +96,11 @@ const stephano = {
 
 <div align="center">
 
-## 🎨『 MODELO 3D INTERACTIVO 』🎨
+## �『 FUN ZONE 』🎬
 
-<!-- Personaje Animado 3D - Iron Man Style -->
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="400" alt="Iron Man 3D" />
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="Baby Groot" />
 
-**『 Powered by Innovation & Coffee 』**
+**『 I am Groot... I mean, I am Developer 』**
 
 </div>
 
@@ -123,23 +122,17 @@ const stephano = {
 
 <br/><br/>
 
-<a href="https://reactjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
-</a>
 <a href="https://angular.io" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
 </a>
 <a href="https://vuejs.org/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" width="60" height="60" alt="Vue" />
 </a>
 <a href="https://astro.build/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" width="60" height="60" alt="Astro" />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
-</a>
-<a href="https://svelte.dev/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=svelte" width="60" height="60" alt="Svelte" />
 </a>
 
 <br/>
@@ -150,23 +143,11 @@ const stephano = {
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS" />
 </a>
-<a href="https://sass-lang.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" width="55" height="55" alt="Sass" />
-</a>
 <a href="https://tailwindcss.com/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
-</a>
-<a href="https://redux.js.org/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" width="55" height="55" alt="Redux" />
-</a>
-<a href="https://webpack.js.org/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" width="55" height="55" alt="Webpack" />
-</a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
 </a>
 
 </div>
@@ -178,11 +159,10 @@ const stephano = {
 
 ### 🚀 Core Languages 🚀
 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C" alt="C++" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JS" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TS" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java" />
 
 </div>
 
@@ -195,12 +175,6 @@ const stephano = {
 
 <a href="https://nodejs.org/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
-</a>
-<a href="https://nestjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" alt="NestJS" />
 </a>
 <a href="https://flutter.dev/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter" />
@@ -230,11 +204,8 @@ const stephano = {
 <a href="https://www.postgresql.org/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
 </a>
-<a href="https://redis.io/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" />
+<a href="https://www.microsoft.com/sql-server" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" width="100" height="50" alt="SQL Server" />
 </a>
 
 <br/>
@@ -244,37 +215,6 @@ const stephano = {
 </a>
 <a href="https://www.docker.com/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
-</a>
-<a href="https://www.nginx.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" width="50" height="50" alt="Nginx" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- Tools -->
-<div align="center">
-
-### ⚙️ Tools & IDEs ⚙️
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
-</a>
-<a href="https://www.postman.com/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
-</a>
-<a href="https://www.notion.so/" target="_blank">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=notion" width="50" height="50" alt="Notion" />
 </a>
 
 </div>
@@ -296,100 +236,6 @@ const stephano = {
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephanoescu&bg_color=0d1117&color=00ffff&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-
-## 🎮『 PERSONAJE ESPECIAL 3D 』🎮
-
-<!-- Personaje Animado Especial - Spiderman o personaje pixelado -->
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Spiderman Coding" />
-  <br/>
-  <b>🕷️ Coding like a Superhero 🕷️</b>
-</td>
-<td width="50%" align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="Batman Coding" />
-  <br/>
-  <b>🦇 Dark Code Master 🦇</b>
-</td>
-</tr>
-</table>
-
-**『 With great code comes great responsibility 』**
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍『 CONTRIBUCIÓN SNAKE 』🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stephanoescu/Stephanoescu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stephanoescu/Stephanoescu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Stephanoescu/Stephanoescu/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡『 PROYECTOS DESTACADOS 』💡
-
-<a href="https://github.com/Stephanoescu/PROYECTO-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephanoescu&repo=PROYECTO-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=ff69b4" />
-</a>
-
-<a href="https://github.com/Stephanoescu/PROYECTO-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephanoescu&repo=PROYECTO-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=ff69b4" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈『 ACTIVIDAD RECIENTE 』📈
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
-<div align="center">
-
-## 💬『 CITA INSPIRADORA 』💬
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯『 OBJETIVOS 2026 』🎯
-
-```diff
-+ ✅ Dominar React 19 y Server Components
-+ ✅ Contribuir a 5+ proyectos Open Source
-+ ✅ Lanzar mi propia librería NPM
-+ ⏳ Alcanzar 1000+ seguidores en GitHub
-+ ⏳ Escribir 20+ artículos técnicos
-+ 🚀 Construir mi startup tech
-```
-
 </div>
 
 ---
