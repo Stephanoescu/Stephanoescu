@@ -67,11 +67,11 @@ const stephano = {
 <br/><br/>
 
 <!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=4169E1&text_color=ffffff&bg_color=000000&ring_color=1E90FF&fire_color=4169E1" alt="Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=4169E1&text_color=ffffff&bg_color=0D1B2A&ring_color=1E90FF&fire_color=4169E1" alt="Stats" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephanoescu&hide_border=true&background=000000&stroke=1E90FF&ring=1E90FF&fire=4169E1&currStreakLabel=ffffff&sideLabels=1E90FF&dates=ffffff" alt="Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephanoescu&hide_border=true&background=0D1B2A&stroke=1E90FF&ring=1E90FF&fire=4169E1&currStreakLabel=ffffff&sideLabels=1E90FF&dates=ffffff" alt="Streak" width="100%" />
 
 </td>
 </tr>
@@ -211,12 +211,12 @@ const stephano = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=4169E1&text_color=c9d1d9&bg_color=000000" alt="Stephano's Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephanoescu&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=000000&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=4169E1&text_color=c9d1d9&bg_color=0D1B2A" alt="Stephano's Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephanoescu&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0D1B2A&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephanoescu&bg_color=000000&color=1E90FF&line=4169E1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephanoescu&bg_color=0D1B2A&color=1E90FF&line=4169E1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
