@@ -96,7 +96,7 @@ const stephano = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="180" alt="Monkey" />
+<img src="https://i.postimg.cc/DZhZ2kMq/Programono.jpg" width="180" alt="Monkey" />
 
 </div>
 
