@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Animado Superior -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=300&section=header&text=Stephano%20Espinoza%20Cueva&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Software%20|%20Frontend%20Specialist&descAlignY=51&descSize=25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0x5DADE2&height=300&section=header&text=Stephano%20Espinoza%20Cueva&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Software%20|%20Frontend%20Specialist&descAlignY=51&descSize=25" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%87%B5%F0%9F%87%AA+Ingeniero+de+Software;%E2%9A%A1+Creando+Experiencias+Web+%C3%9Anicas" alt="Typing SVG" /></a>
