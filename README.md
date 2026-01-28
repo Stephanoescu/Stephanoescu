@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Stephano%20Espinoza%20Cueva&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Software%20|%20Frontend%20Specialist&descAlignY=51&descSize=25" width="100%" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%87%B5%F0%9F%87%AA+Ingeniero+de+Software;%E2%9A%A1+Creando+Experiencias+Web+%C3%9Anicas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%87%B5%F0%9F%87%AA+Ingeniero+de+Software;%E2%9A%A1+Creando+Experiencias+Web+%C3%9Anicas" alt="Typing SVG" /></a>
 
 <!-- Wave Animation -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" style="margin: 20px;">
@@ -62,16 +62,16 @@ const stephano = {
 <td width="50%" valign="top" align="center">
 
 <!-- GIF de Programación Cyberpunk -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" style="border-radius: 10px; border: 2px solid #00ffff;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" style="border-radius: 10px; border: 2px solid #1E90FF;" />
 
 <br/><br/>
 
 <!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&ring_color=00ffff&fire_color=ff69b4" alt="Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=4169E1&text_color=ffffff&bg_color=000000&ring_color=1E90FF&fire_color=4169E1" alt="Stats" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephanoescu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=ff69b4&currStreakLabel=ffffff" alt="Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephanoescu&hide_border=true&background=000000&stroke=1E90FF&ring=1E90FF&fire=4169E1&currStreakLabel=ffffff&sideLabels=1E90FF&dates=ffffff" alt="Streak" width="100%" />
 
 </td>
 </tr>
@@ -206,17 +206,17 @@ const stephano = {
 
 ## 📊『 ESTADÍSTICAS DE GITHUB 』📊
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Stephanoescu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Stephanoescu&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" alt="Stephano's Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephanoescu&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=4169E1&text_color=c9d1d9&bg_color=000000" alt="Stephano's Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephanoescu&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=000000&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephanoescu&bg_color=0d1117&color=00ffff&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephanoescu&bg_color=000000&color=1E90FF&line=4169E1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
