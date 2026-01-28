@@ -11,24 +11,12 @@
 
 <!-- Social Badges con Animación -->
 <p align="center">
-  <a href="https://linkedin.com/in/TU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/stephano-espinoza-cueva-7755a7304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00b4d8" alt="LinkedIn" />
   </a>
-  <a href="mailto:TU-EMAIL-AQUI" target="_blank">
+  <a href="mailto:stephanoescu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=ea001e" alt="Gmail" />
   </a>
-  <a href="https://github.com/Stephanoescu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=0d1117" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/TU-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=00acee" alt="Twitter" />
-  </a>
-</p>
-
-<!-- Contador de Visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stephanoescu&label=Visitantes&color=00ffff&style=for-the-badge" alt="Visitantes" />
-  <img src="https://img.shields.io/github/followers/Stephanoescu?label=Seguidores&style=for-the-badge&color=ff69b4&logo=github&logoColor=white" alt="Followers" />
 </p>
 
 </div>
@@ -69,7 +57,6 @@ const stephano = {
 - 🔭 Desarrollando **aplicaciones web de alto rendimiento**
 - 🌱 Explorando **Web3** y **IA Generativa**
 - ⚡ Buscando colaborar en **proyectos open source**
-
 
 </td>
 <td width="50%" valign="top" align="center">
