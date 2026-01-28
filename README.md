@@ -98,9 +98,9 @@ const stephano = {
 
 ## �『 FUN ZONE 』🎬
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="Baby Groot" />
+<img src="https://media.giphy.com/media/3o6ZtpRoYe9wbyfcBi/giphy.gif" width="250" alt="Coding Monkey" />
 
-**『 I am Groot... I mean, I am Developer 』**
+**『 Code Monkey very functional, code monkey get the job done! 』**
 
 </div>
 
