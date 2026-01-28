@@ -1,87 +1,95 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN5YXY1eWJ4aGV5YngwZnI2d3E1bHd6eTZ4Z3h4Y3R4Y3R4Y3R4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBztM07EQL17vH/giphy.gif" width="100%" height="250" style="object-fit: cover;" alt="Banner Cyberpunk" />
+  <img src="https://i.pinimg.com/originals/c5/6b/2e/c56b2eae0e501ab66cb27021e31a3c68.gif" width="100%" height="220" style="object-fit: cover; border-bottom: 3px solid #00BFFF;" alt="Blue Data Stream Banner" />
 
-  <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Stephano Espinoza Cueva</h1>
-  <h3 align="center">🇵🇪 Ingeniero de Software | Especialista Frontend 🇵🇪</h3>
+  <h1 align="center" style="font-family: monospace; text-transform: uppercase;">
+     &gt;_ SYSTEM BREACH DETECTED... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  </h1>
+  <h2 align="center">Soy <span style="color: #00BFFF;">Stephano Espinoza Cueva</span></h2>
+  <h3 align="center">🇵🇪 Ingeniero de Software | <span style="color: #00BFFF;">Arquitecto Frontend</span> 🇵🇪</h3>
 
   <p align="center">
-    <em>"Creando experiencias web dinámicas y atractivas."</em>
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/TU-LINKEDIN-AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/stephano-espinoza-cueva-0b9b1b1b7/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=00BFFF" height="35" alt="LinkedIn" />
     </a>
-    <a href="mailto:TU-EMAIL-AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    &nbsp;
+    <a href="mailto:TU_EMAIL_AQUI@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/GMAIL-SEND_DATA-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=D14836" height="35" alt="Gmail" />
     </a>
   </p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table border="0" width="100%">
+<table border="0" width="100%" style="background-color: #0d1117;">
   <tr border="0">
-    <td width="50%" valign="top" border="0">
-      <h3>👨‍💻 Sobre Mí</h3>
-      <ul>
-        <li>🔭 Actualmente trabajando en proyectos <strong>Frontend de alto impacto</strong>.</li>
-        <li>🌱 Siempre aprendiendo nuevas tecnologías del ecosistema web.</li>
-        <li>⚡ Fun fact: Me encanta optimizar el rendimiento de las aplicaciones al milímetro.</li>
-        <li>📍 Basado en <strong>Perú</strong>.</li>
+    <td width="55%" valign="top" border="0">
+      <h3>📡 <span style="color: #00BFFF;">//: USER_BIO_LOG</span></h3>
+      <ul style="font-family: monospace;">
+        <li>💾 Especialista en construir interfaces web <strong>reactivas y de alto rendimiento</strong>.</li>
+        <li>🔭 Stack Principal: <strong>React & Ecosistema Moderno</strong>.</li>
+        <li>⚡ Obsesionado con la optimización y la UX fluida.</li>
+        <li>📍 Ubicación del Servidor: <strong>Perú</strong>.</li>
       </ul>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=00ffff&text_color=ffffff&bg_color=0d1117" alt="Stephano's Stats" width="100%" />
+      
+      <h4 align="left">📊 <span style="color: #00BFFF;">GITHUB_METRICS</span></h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&count_private=true&hide_border=false&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&border_color=00BFFF" alt="Stephano's Blue Stats" width="100%" />
     </td>
-    <td width="50%" valign="top" border="0" align="center">
-      <img src="https://i.pinimg.com/originals/ed/b6/99/edb699da9c9eb694d0c97b80a023d77f.gif" width="90%" alt="Coding animation" style="border-radius: 10px;" />
+    
+    <td width="45%" valign="top" border="0" align="center">
+      <img src="https://i.pinimg.com/originals/0c/2b/3b/0c2b3b82c6092571cb9dd06c92900ce9.gif" width="85%" alt="Futuristic Interface Hologram" style="border-radius: 15px; border: 2px solid #00BFFF;" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephanoescu&layout=compact&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Stephano's Top Languages" width="100%" />
+      
+      <h4 align="left">💻 <span style="color: #00BFFF;">MOST_USED_LANGS</span></h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephanoescu&layout=compact&hide_border=false&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF" alt="Stephano's Top Languages Blue" width="100%" />
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ <span style="color: #00BFFF;">//: TECH_ARSENAL_INITIATED</span>
 
-Organizado para mostrar tu especialidad en Frontend sin descuidar el resto.
+<div align="left" style="background-color: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #00BFFF;">
 
-<div align="left">
-
-#### 🚀 Core & Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<h3 align="center" style="color: #00BFFF;">⚛️ FRONTEND CORE MASTERY ⚛️</h3>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 8px; border: 2px solid #00BFFF; border-radius: 10px; padding: 5px; background: #000;" src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /></a>
+  <a href="https://angular.io" target="_blank"><img style="margin: 8px; border: 2px solid #00BFFF; border-radius: 10px; padding: 5px; background: #000;" src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img style="margin: 8px; border: 2px solid #00BFFF; border-radius: 10px; padding: 5px; background: #000;" src="https://skillicons.dev/icons?i=vue" width="60" height="60" alt="Vue" /></a>
+  <a href="https://astro.build/" target="_blank"><img style="margin: 8px; border: 2px solid #00BFFF; border-radius: 10px; padding: 5px; background: #000;" src="https://skillicons.dev/icons?i=astro" width="60" height="60" alt="Astro" /></a>
+</p>
+<p align="center">
+  <img style="margin: 5px" src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap" width="50" height="50" alt="Web Basics" />
 </p>
 
-#### ⚛️ Frontend Mastery (Mi Especialidad)
-<p>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a>
-  <a href="https://angular.io" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" /></a>
-  <a href="https://astro.build/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=astro" width="45" height="45" alt="Astro" /></a>
-  <br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 5px" src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" /></a>
-</p>
+<br>
 
-#### 🔙 Backend, Móvil & Data
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<h4 style="color: #00BFFF;">🔙 BACKEND & DB UNITS</h4>
 <p>
-  <img style="margin: 5px" src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" />
-  <img style="margin: 5px" src="https://skillicons.dev/icons?i=flutter,dart,android" width="40" height="40" alt="Mobile Stack" />
-  <span style="margin-right: 20px;"></span>
-  <img style="margin: 5px" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" width="40" height="40" alt="Databases" />
-  <img style="margin: 5px" src="https://skillicons.dev/icons?i=aws,docker" width="40" height="40" alt="DevOps" />
+  <img style="margin: 5px" src="https://skillicons.dev/icons?i=nodejs,python,cpp" width="45" height="45" alt="Backend Langs" />
+  <br>
+  <img style="margin: 5px" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" width="45" height="45" alt="Databases" />
 </p>
+</td>
+<td width="50%" align="center">
+<h4 style="color: #00BFFF;">📱 MOBILE & DEVOPS OPS</h4>
+<p>
+  <img style="margin: 5px" src="https://skillicons.dev/icons?i=flutter,dart,android" width="45" height="45" alt="Mobile" />
+  <br>
+  <img style="margin: 5px" src="https://skillicons.dev/icons?i=aws,docker,git" width="45" height="45" alt="DevOps" />
+</p>
+</td>
+</tr>
+</table>
+
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Stephanoescu/Stephanoescu/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Stephanoescu/Stephanoescu/output/snake.svg" alt="Snake animation" width="100%" style="border-top: 3px solid #00BFFF;" />
 </div>
