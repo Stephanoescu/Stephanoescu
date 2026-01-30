@@ -45,7 +45,6 @@ const stephano = {
     arquitectura: ["DDD", "Clean Architecture", "Microservicios"],
     desafioActual: "Construir apps escalables y performantes",
     curiosidades: {
-        café: "☕ Adicto al café de especialidad",
         música: "🎵 Codifico con buena musica",
         gaming: "🎮 Gamer en tiempos libres",
     }
