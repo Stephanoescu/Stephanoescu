@@ -63,15 +63,6 @@ const stephano = {
 <!-- GIF de Programación Cyberpunk -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" style="border-radius: 10px; border: 2px solid #1E90FF;" />
 
-<br/><br/>
-
-<!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&hide_border=true&title_color=1E90FF&icon_color=4169E1&text_color=ffffff&bg_color=0d1117" alt="Stats" width="100%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Stephanoescu&hide_border=true&background=0d1117&stroke=1E90FF&ring=1E90FF&fire=4169E1&currStreakLabel=ffffff&sideLabels=1E90FF&dates=ffffff" alt="Streak" width="100%" />
-
 </td>
 </tr>
 </table>
@@ -203,26 +194,7 @@ const stephano = {
 
 <div align="center">
 
-## 📊『 ESTADÍSTICAS DE GITHUB 』📊
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Stephanoescu&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Stephanoescu&show_icons=true&hide_border=true&title_color=1E90FF&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Stephano's Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephanoescu&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephanoescu&bg_color=0d1117&color=1E90FF&line=4169E1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-
-###  Creado por Stephano Espinoza Cueva
+### 🎨 Creado por Stephano Espinoza Cueva
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5DADE2&height=150&section=footer&text=Gracias%20por%20visitar!&fontSize=40&fontColor=fff&animation=twinkling" width="100%" />
 
