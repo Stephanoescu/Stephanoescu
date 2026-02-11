@@ -222,7 +222,7 @@ const stephano = {
 
 <div align="center">
 
-### 🎨 Creado con ❤️ y ☕ por Stephano Espinoza Cueva
+### 🎨 Creado por Stephano Espinoza Cueva
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5DADE2&height=150&section=footer&text=Gracias%20por%20visitar!&fontSize=40&fontColor=fff&animation=twinkling" width="100%" />
 
