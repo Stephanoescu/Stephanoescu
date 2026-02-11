@@ -70,7 +70,7 @@ const stephano = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Stephanoescu&theme=dark&hide_border=true&background=0D1B2A&stroke=1E90FF&ring=1E90FF&fire=4169E1&currStreakLabel=FFFFFF&sideLabels=1E90FF&dates=FFFFFF" alt="Streak" width="100%" />
+<img src="https://nirzak-streak-stats.vercel.app?user=Stephanoescu&theme=dark&hide_border=true&background=0D1B2A&stroke=1E90FF&ring=1E90FF&fire=4169E1&currStreakLabel=FFFFFF&sideLabels=1E90FF&dates=FFFFFF" alt="Streak" width="100%" />
 
 </td>
 </tr>
@@ -215,14 +215,14 @@ const stephano = {
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephanoescu&theme=github-dark&bg_color=0D1B2A&color=1E90FF&line=4169E1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephanoescu&bg_color=0D1B2A&color=1E90FF&line=4169E1&point=FFFFFF&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
 
-### 🎨 Creado por Stephano Espinoza Cueva
+###  Creado por Stephano Espinoza Cueva
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5DADE2&height=150&section=footer&text=Gracias%20por%20visitar!&fontSize=40&fontColor=fff&animation=twinkling" width="100%" />
 
